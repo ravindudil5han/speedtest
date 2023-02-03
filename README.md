@@ -1,6 +1,7 @@
 ## USAGE
 
 ```
+
 const testSpeed = require('./main.js');
 
 testSpeed().then((result) => {
@@ -14,7 +15,4 @@ testSpeed().then((result) => {
   console.error(err);
 
 });
-
-
-
 ```

@@ -1,0 +1,22 @@
+{
+  "name": "speedtest",
+  "version": "1.0.0",
+  "description": "speedtest ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindudil5han/speedtest.git"
+  },
+  "author": "dilshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravindudil5han/speedtest/issues"
+  },
+  "homepage": "https://github.com/ravindudil5han/speedtest#readme",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}

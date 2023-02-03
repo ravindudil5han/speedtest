@@ -1,5 +1,6 @@
 ## USAGE
-<hr>
+
+
 ```
 
 const testSpeed = require('./main.js');
